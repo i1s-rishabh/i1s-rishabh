@@ -44,8 +44,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i1s-rishabh&show_icons=true&locale=en&layout=compact" alt="i1s-rishabh" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=i1s-rishabh&show_icons=true&locale=en" alt="i1s-rishabh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i1s-rishabh&show_icons=true&locale=en" alt="i1s-rishabh" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=i1s-rishabh&" alt="i1s-rishabh" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i1s-rishabh" alt="i1s-rishabh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i1s-rishabh" alt="i1s-rishabh" /></a> </p>
